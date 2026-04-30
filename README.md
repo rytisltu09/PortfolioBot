@@ -8,5 +8,5 @@
 - moderation.py program has moderation related programs
 - utility.py program has utility related programs
 - setup.py program has AutoMod implementation, and setup ease
-
+- /images directory has required image(s) for the bot's front-end look.
 
